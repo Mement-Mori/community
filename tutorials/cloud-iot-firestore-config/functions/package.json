@@ -25,7 +25,7 @@
     "@google-cloud/iot": "0.2.1"
   },
   "devDependencies": {
-    "gts": "^0.5.4",
+    "gts": "^4.0.0",
     "tslint": "^5.8.0",
     "typescript": "~2.8.3"
   },
